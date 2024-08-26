@@ -1,5 +1,9 @@
-messy and red, as we all can feel sometimes.
+# The color red
 
-an audio visualisation I built during the pandemic while learning to play the guitar and falling in love with Jim Morrison.
+Messy and red, as we all can feel sometimes.
 
-tech: p5.js
+An audio visualization I built during the pandemic while learning to play the guitar and falling in love with Jim Morrison.
+
+**Tech:** p5.js
+
+![Screenshot of the audio visualization](./screenshot.png)
